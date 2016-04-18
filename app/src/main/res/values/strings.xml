@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcServer</string>
+    <string name="action_show_operations">Tehted</string>
+    <string name="action_show_operationTypes">Tehtetüübid</string>
+    <string name="action_show_statistics">Statistika</string>
+    <string name="action_delete_all">Kustuta kõik</string>
+    <string name="action_refresh_all">F5</string>
+    <string name="action_reset_counters">DLC 5.99€</string>
+</resources>
